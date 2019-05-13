@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Pires de Sá Medeiros"
-  avatar           : _assets/images/avatar.JPG
+  avatar           : _assets/images/avatar.jpg
   bio              : "31, PhD."
   location         : "Lisbon, Portugal"
   email            : daniel.medeiros@tecnico.ulisboa.pt
