@@ -4,8 +4,6 @@ main:
     url: \#aboutme
   - title: "Projects"
     url: \#projects
-  - title: "Teaching"
-    url: \#teaching
   - title: "Publications"
     url: \#publications
   - title: "Contacts"
