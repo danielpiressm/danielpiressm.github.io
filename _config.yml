@@ -106,30 +106,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Medeiros"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person, obviously."
-  location         : "blabla"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+  name             : "Daniel Pires de Sá Medeiros"
+  avatar           : /_assets/images/avatar.JPG
+  bio              : "31, PhD."
+  location         : "Lisbon, Portugal"
+  email            : daniel.medeiros@tecnico.ulisboa.pt
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : danielpiressm
+  foursquare       :
+  github           : danielpiressm
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        : danielpiressm
+  lastfm           : 
+  linkedin         : 
+  pinterest        :
+  soundcloud       : 
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          : danielpiressm
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 # Site Footer
 footer:
