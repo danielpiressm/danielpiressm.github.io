@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "DM"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Daniel Medeiros"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Pires de Sá Medeiros"
-  avatar           : /_assets/images/avatar.JPG
+  avatar           : _assets/images/avatar.JPG
   bio              : "31, PhD."
   location         : "Lisbon, Portugal"
   email            : daniel.medeiros@tecnico.ulisboa.pt
