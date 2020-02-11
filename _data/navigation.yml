@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About me"
-    url: \#aboutme
+    url: #aboutme
   - title: "Projects"
-    url: \\#projects
+    url: #projects
   - title: "Publications"
-    url: \#publications
+    url: #publications
   - title: "Contacts"
-    url: \#contacts
+    url: #contacts
